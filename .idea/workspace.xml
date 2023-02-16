@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9df602f1-7df3-4508-8c58-cb27da3eee18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C01_DriverManageMethodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C02_ImplycitlyWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C03_DriverMethodlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C04_WebElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C05_findElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_webElements_Locaters/C06_AutomationExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C01_xPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C03_cssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_xpath_cssSelector/C05_RelativeLocators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +52,39 @@
       <recent name="C:\Users\FURKAN\IdeaProjects\SeleniumTekrar\src\test\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06_AutomationExercise">
+  <component name="RunManager" selected="Application.C03_cssSelector">
+    <configuration name="C01_xPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C01_xPath" />
+      <module name="SeleniumTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C03_DriverMethodlar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02_webElements_Locaters.C03_DriverMethodlar" />
       <module name="SeleniumTekrar" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day02_webElements_Locaters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_cssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_xpath_cssSelector.C03_cssSelector" />
+      <module name="SeleniumTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03_xpath_cssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +120,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_cssSelector" />
+        <item itemvalue="Application.C01_xPath" />
         <item itemvalue="Application.C06_AutomationExercise" />
         <item itemvalue="Application.C03_DriverMethodlar" />
         <item itemvalue="Application.C04_DriverMethodlari" />
